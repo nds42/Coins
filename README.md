@@ -60,6 +60,7 @@ public class Coins {
 }
 OUTPUT:
 Enter amount in cents: 67
+
 2 quarter(s)
 1 dime(s)
 1 nickel(s)
